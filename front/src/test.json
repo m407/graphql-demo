@@ -1,0 +1,1 @@
+{"operationName":"Books","variables":{},"query":"query Books {\n  bookById(id: \"book-1\") {\n    id\n    name\n    __typename\n  }\n}\n"}
